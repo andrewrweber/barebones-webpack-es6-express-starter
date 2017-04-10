@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 
-import './app.css';
+import './scss/main.scss';
 
 const App = (
   <div>App!</div>
