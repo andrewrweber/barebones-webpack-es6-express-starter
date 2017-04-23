@@ -1,3 +1,3 @@
-import './scss/main.css';
+import './scss/main.scss';
 
 console.log("App.js");
